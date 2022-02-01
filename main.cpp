@@ -1,7 +1,5 @@
 #include "raylib.h"
 
-#include <stdlib.h>           // Required for: free()
-
 int main(void)
 {
     // Initialization
@@ -9,7 +7,7 @@ int main(void)
     const int screenWidth = 800;
     const int screenHeight = 450;
 
-    InitWindow(screenWidth, screenHeight, "raylib [models] example - first person maze");
+    InitWindow(screenWidth, screenHeight, "Raylib Window Template");
 
     SetTargetFPS(60);               // Set our game to run at 60 frames-per-second
     //--------------------------------------------------------------------------------------
