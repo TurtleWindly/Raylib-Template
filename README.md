@@ -1,5 +1,5 @@
 # Raylib-Template
 
-Task build and run using powershell
+Task build and run writting in .cmd
 
-A simple template for work with raylib using vs code
+A simple template for work with raylib
